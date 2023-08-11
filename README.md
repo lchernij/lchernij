@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lchernij
-- 👀 I’m interested in PHP, Laravel, Django, Unreal
-- 🌱 I’m currently learning Django and Unreal
+- 👀 I’m interested in PHP, Laravel, , Unreal Engine
+- 🌱 I’m currently learning Unreal
 - 📫 How to reach me: lchernij@gmail.com
 
 <!---
